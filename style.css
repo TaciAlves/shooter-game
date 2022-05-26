@@ -13,7 +13,7 @@ body {
 #main-play-area {
     background-color: black;
     background-image: url(img/space.png);
-    height: 100vh;
+    height: 600px;
     width: 600px;
 }
 
